@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Akshay Paropkari's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/akshayparopkari)
 - 🔭 I’m currently working on assesssing gene regulatory network of fungal biofilms to identify potential therapeutic biomarker targets. Also, I enjoy teaching Python, R and Bash. So...
 - 💬 Ask me about Python, R, Bash, and all things around them. 
 - 📫 How to reach me: [Twitter](https://twitter.com/akshayparopkari)
